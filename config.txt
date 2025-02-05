@@ -1,0 +1,16 @@
+/projects/b1020/Richard/snowfly/strawberry/snowfly_ab_f_strawberry.gtf	ab_f_sb	True	0	False	True	True
+/projects/b1020/Richard/snowfly/strawberry/snowfly_ab_m_strawberry.gtf	ab_m_sb	True	0	False	True	True
+/projects/b1020/Richard/snowfly/strawberry/snowfly_head_strawberry.gtf	head_sb	True	0	False	True	True
+/projects/b1020/Richard/snowfly/strawberry/snowfly_ant_strawberry.gtf	ant_sb	True	0	False	True	True
+/projects/b1020/Richard/snowfly/strawberry/snowfly_thorax_strawberry.gtf	thorax_sb	True	0	False	True	True
+/projects/b1020/Richard/snowfly/stringtie/snowfly_stringtie_ab_f.gtf	ab_f_st	True	0	False	True	True
+/projects/b1020/Richard/snowfly/stringtie/snowfly_stringtie_ab_m.gtf	ab_m_st	True	0	False	True	True
+/projects/b1020/Richard/snowfly/stringtie/snowfly_stringtie_head.gtf	head_st	True	0	False	True	True
+/projects/b1020/Richard/snowfly/stringtie/snowfly_stringtie_ant.gtf	ant_st	True	0	False	True	True
+/projects/b1020/Richard/snowfly/stringtie/snowfly_stringtie_thorax.gtf	thorax_st	True	0	False	True	True
+/projects/b1020/Richard/snowfly/scallop/snowfly_ab_f_scallop.gtf	ab_f_sc	True	0	False	True	True
+/projects/b1020/Richard/snowfly/scallop/snowfly_ab_m_scallop.gtf	ab_m_sc	True	0	False	True	True
+/projects/b1020/Richard/snowfly/scallop/snowfly_ant_scallop.gtf	ant_sc	True	0	False	True	True
+/projects/b1020/Richard/snowfly/scallop/snowfly_head_scallop.gtf	head_sc	True	0	False	True	True
+/projects/b1020/Richard/snowfly/scallop/snowfly_thorax_scallop.gtf	thorax_sc	True	0	False	True	True
+/projects/b1020/Richard/snowfly/braker/braker.gff	braker	True	0	False	True	True
