@@ -1,6 +1,6 @@
 # Snowfly Annotation
 
-This directory contains scripts used to run the pipeline from *chionea et al*. Here, we succinctly describe the use, and order for each script. A broad overview can be obtained in the methods,and more specific instructions can be found in each shell script. 
+This directory contains scripts used to run the pipeline from *chionea et al*. Here, we succinctly describe the use, and order for each script. A broad overview can be obtained in the methods, and more specific instructions can be found in each shell script. 
 
 ### Step 1: Align reads to the genome. 
 Refer to *align.sh*
